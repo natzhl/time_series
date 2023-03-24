@@ -1,8 +1,10 @@
 # time_series
 Predicting taxi orders in the next hour with machine learning models.
 
-
-
+1. Data upload and resampling for one hour.
+2. Data analysis.
+3. Training different models with different hyperparameters.
+4. Validating data on a test set and conclusions.
 ________________________________________________________________________________
 Описание проекта:
 Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Постройте модель для такого предсказания.
